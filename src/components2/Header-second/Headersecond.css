@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Headersecond-body-2 {
+    margin: 0 40px;
+    padding: 0 20px 0px 20px;
+}
+.top-a {
+    display: flex;
+    align-items: center;
+    color: black;
+}
+.top-a a {
+    text-decoration: none;
+    padding-right: 10px;
+    font-size: 14px;
+}
+.top-a p {
+    margin: 0;
+    padding: 0 0 0 10px;
+    font-size: 14px;
+}
+.Headersecond-body h1 {
+    display: flex;
+    align-items: center;
+    color: black;
+    margin: 35px 0;
+    font-size: 50px;
+}
+.Headersecond-body p {
+    color: gray;
+    font-size: 15px;
+    font-weight: 600;
+}
+.Headersecond-body h2 {
+    display: flex;
+    align-items: center;
+    color: black;
+    margin: 35px 0;
+}
+.Headersecond-body ul li {
+    color: gray;
+}

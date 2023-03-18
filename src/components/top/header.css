@@ -1,0 +1,129 @@
+.Header {
+    width: 100%;
+    max-height: auto;
+    background-color: #DCEDFE;
+    padding: 180px 0 40px 0;
+}
+.Header h1 {
+    min-width: 800px;
+    min-height: 150px;
+    margin: 0 231px 30px;
+    text-align: center;
+}
+.Header h1 p {
+    font-size: 60px;
+    width: 100%;
+    height: 100%;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.button button {
+    width: 250px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4AD295;
+    border: none;
+}
+.button button h5 {
+    width: 150px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 20px 28px 15px 0px; */
+    margin: 0;
+}
+.button button h5 h4 {
+    padding: 7px 0 3px ;
+}
+.priyom {
+    width: 100%;
+    height: 40px;
+    margin: 0;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 55px;
+}
+.priyom p {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 55px;    
+}
+.Header2 {
+    width: 100%;
+    height: 520px;
+    padding: 150px 0 120px 0;
+}
+.Header2-1 {
+    width: 95%;
+    height: 520px;
+    margin: 0 40px 0 40px;
+    padding: 0 20px;
+}
+.Header2-leftside {
+    width: 45%;
+    text-align: left;
+}
+.button2 {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    margin-bottom: 20px;
+}
+.button2 button {
+    width: 250px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: #4AD295;
+    border: none;
+    align-items: center;
+}
+.button2 button h5 {
+    width: 150px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 20px 28px 15px 0px; */
+    margin: 0;
+}
+.button2 button h5 h4 {
+    padding: 7px 0 3px ;
+}
+.Header2-leftside-p1 {
+    display: block;
+    width: 100%;
+    padding: 36px 0 10px 0;
+    color: blue;
+}
+.Header2-leftside {
+    font-size: 25px;
+}
+.Header2-leftside li {
+    color: #646786;
+}
+.Header2-leftside-p2{
+    color: #646786;
+}
+.Header2-rightside {
+    width: 45%;
+    height: 100%;
+}
+.Header2-rightside img {
+    width: 100%;
+    height: 100%;
+}
+.Header2-1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 700px;
+    padding: 10px;
+}

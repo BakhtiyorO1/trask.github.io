@@ -1,0 +1,69 @@
+.Header3-Teck-uses-body {
+    width: 100%;
+    height: 500px;
+    /* margin: 0 40px; */
+    padding: 40px 60px 100px;
+    background-color: #F5F9FF;
+}
+.Header3-Teck-uses-body {
+    background: #fff;
+}
+.Header3-body {
+    text-align: center;
+    background-color: #fff;
+}
+.Header3-Teck-uses{
+    width: 95%;
+    height: 60px;
+    margin: 21px;
+    text-align: center;
+}
+.Header3-Teck-uses-1 {
+    display: flex;
+}
+.Header3-Teck-uses-1 a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 300px;
+    padding: 46px;
+    border: 1px solid blue;
+    border: 1px solid lightblue;
+    text-decoration: none;
+    background-color: rgb(229, 241, 245);
+    color: black;
+    border-radius: 5px;
+}
+.Header3-Teck-uses-1 a .Header3-Teck-uses-1-1 {
+    text-align: center;
+}
+.Header3-Teck-uses-1 a .Header3-Teck-uses-1-1 .Header3-Teck-uses-1-1-ziro {
+    font-size: 96px;
+}
+.Header3-Teck-uses-1 a .Header3-Teck-uses-1-1 span {
+    font-size: 36px;
+}
+.Header3-Teck-uses-1 a:hover{
+    color: black;
+}
+.Header3-Teck-uses-1 a .Header3-Teck-uses-1-1 p {
+    font-size: 22px;
+    color: gray;
+    width: 196px;
+}
+.Header3-Teck-uses-1 a .Header3-Teck-uses-1-1 img {
+    width: 80px;
+    height: 80px;
+    margin: 0 20px 0 0;
+}
+.Header3-Teck-uses-1 a .Teck-uses-2 {
+    display: flex;
+}
+.Header3-body-l-p {
+    font-size: 18px;
+    font-weight: 400;
+}
+.Header3-body-l-p span {
+    font-weight: 500;
+}

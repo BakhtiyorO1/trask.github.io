@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header5-body {
+    width: 100%;
+    height: auto;
+    padding: 110px 0 124px 0;
+}
+.header5-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin: 0 40px;
+}
+.button-header5 {
+    margin-top: 50px;
+    margin-left: 46%;
+}
+.button-header5 button {
+    border: 1px solid blue ;
+    color: blue;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+.button-header5 button h6 {
+    height: 50px;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+}
+.button-header5 button:hover {
+    background-color: lightblue;
+}
+.header5-1 {
+    height: 600px;
+    border-radius: 10px;
+    border: 1px solid blue;
+    padding: 0px 0px 25px 0px;
+    height: 550px;
+    margin-bottom: 20px;
+}
+.header5-1-1-top {
+    width: 30%;
+}
+.header5-2{
+    border-radius: 10px;
+    height: 630px;
+    border: 1px solid blue;
+}
+.header5-1-bottom p {
+    color: rgb(71, 71, 71);
+}
+.header5-1-bottom-name {
+    color: black !important;
+    font-size: 16px;
+    font-weight: 600;
+}
+.header5-1-top {
+    border-radius: 10px 10px 0 0 ;
+}
+.header5-1-top img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: relative;
+    top: 30px;
+    margin-left: 10px;
+}
+.header5-2-1-top {
+    width: 30%;
+    height: auto;
+}
+.header5-2 img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: relative;
+    top: 30px;
+}
+.header5-3 img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: relative;
+    top: 30px;
+}
+.header5-2-1 {
+    border-radius: 10px;
+    height: 640px;
+    border: 1px solid blue;
+}
+.header5-3{
+    width: 30%;
+    border-radius: 10px;
+    height: 700px;
+    border: 1px solid blue;
+    padding: 0px 0px 25px 0px;
+}
+.header5-1-top {
+    height: 120px;
+    background-color: #D2E3FC;
+}
+.header5-1-bottom {
+    padding: 72px 25px 25px 25px;
+}
